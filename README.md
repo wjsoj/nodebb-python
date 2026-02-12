@@ -278,5 +278,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Links
 
 - [NodeBB Documentation](https://docs.nodebb.org/)
-- [NodeBB Community](https://community.nodebb.org/)
-- [GitHub Issues](https://github.com/NodeBB/NodeBB/issues)
