@@ -251,15 +251,6 @@ uv run pytest tests/ --cov=nodebb
 ```bash
 # Install dev dependencies
 uv sync --extra dev
-
-# Run linter
-uv run ruff check nodebb/
-
-# Format code
-uv run black nodebb/
-
-# Type check
-uv run mypy nodebb/
 ```
 
 ## API Coverage
