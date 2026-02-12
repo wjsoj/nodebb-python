@@ -7,16 +7,20 @@ Python client for [NodeBB](https://github.com/NodeBB/NodeBB) Forum API with Open
 
 ## Installation
 
+This package is not published to PyPI. Install from source:
+
 ```bash
-pip install nodebb-python-client
+git clone https://github.com/wjsoj/nodebb-python.git
+cd nodebb-python
+pip install -e .
 ```
 
-Or install from source:
+Or using uv:
 
 ```bash
-git clone https://github.com/NodeBB/NodeBB.git
-cd NodeBB/python_client
-pip install -e .
+git clone https://github.com/wjsoj/nodebb-python.git
+cd nodebb-python
+uv sync
 ```
 
 ## Quick Start
